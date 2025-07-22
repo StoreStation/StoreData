@@ -1,4 +1,6 @@
 [
     { "name": "CXMB", "author": "Poison", "description": "A Custom theme plugin for the PSP devices", "repo": "StoreStation/cxmbPkg", "uploaded": 1752612478 },
-    { "name": "GameCategoriesLite", "author": "ticky", "description": "Create custom categories for your PSP apps", "repo": "StoreStation/gamecategorieslitePkg", "uploaded": 1753108278 }
+    { "name": "GameCategoriesLite", "author": "ticky", "description": "Create custom categories for your PSP apps", "repo": "StoreStation/gamecategorieslitePkg", "uploaded": 1753108278 },
+    { "name": "BattWarn", "author": "Zack", "description": "Shows a message on screen when low on battery", "repo": "StoreStation/battwarnPkg", "uploaded": 1753201716 },
+    { "name": "prxshot", "author": "codestation", "description": "Screenshot plugin for PSP", "repo": "StoreStation/prxshotPkg", "uploaded": 1753201716 }
 ]
