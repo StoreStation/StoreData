@@ -9,6 +9,7 @@
     ],
     "motd": {
         "0.0": "A new version of this software is available, head over to the update section to download it!",
-        "1.0": "Welcome to StoreStation!          Browse plugins to install, select the PLUGINS icon from the main menu.          App catalog coming soon..."
+        "1.0": "Welcome to StoreStation!          Browse plugins to install, select the PLUGINS icon from the main menu.          App catalog coming soon...",
+        "1.1": "Welcome to StoreStation          Browse and install many plugins and applications"
     }
 }
