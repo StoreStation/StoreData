@@ -1,5 +1,5 @@
 [
     { "name": "StoreStation", "author": "RegularRabbit05", "description": "PSP Homebrew store", "repo": "StoreStation/StoreStation", "icon": "githubusercontent:StoreStation/previews/refs/heads/main/storestationicon.jpg", "uploaded": 1755092814, "featured": 0, "tag": "app" },
     { "name": "(M)P3P", "author": "RegularRabbit05", "description": "3D MP3 Player", "repo": "RegularRabbit05/mp3p", "icon": "githubusercontent:StoreStation/previews/refs/heads/main/mp3picon.jpg", "uploaded": 1755109915, "featured": 0, "tag": "app" },
-    { "name": "GPSemu Config", "author": "RegularRabbit05", "description": "GPSemu config tool", "repo": "RegularRabbit05/GPSemu", "icon": "githubusercontent:StoreStation/previews/refs/heads/main/gpsemuconficon.jpg", "uploaded": 1780173729, "featured": 0, "tag": "tool" }
+    { "name": "GPSemu Config", "author": "RegularRabbit05", "description": "GPSemu config tool", "repo": "RegularRabbit05/GPSemu-Configurator", "icon": "githubusercontent:StoreStation/previews/refs/heads/main/gpsemuconficon.jpg", "uploaded": 1780173729, "featured": 0, "tag": "tool" }
 ]
