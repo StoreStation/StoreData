@@ -8,5 +8,6 @@
     { "name": "GPSemu", "author": "RegularRabbit05", "description": "Emulate the GPS attachment", "repo": "RegularRabbit05/GPSemu", "uploaded": 1780176547 },
     { "name": "game_volume", "author": "koutsie", "description": "Volume levels, in game", "repo": "StoreStation/game_volumePkg", "uploaded": 1780756700 },
     { "name": "vshbgm", "author": "koutsie", "description": "Plays a looping tune on the vsh", "repo": "StoreStation/vshbgmPkg", "uploaded": 1780756723 },
-    { "name": "tiredkommando", "author": "koutsie", "description": "Screenshot plugin", "repo": "StoreStation/tiredkommandoPkg", "uploaded": 1780762256 }
+    { "name": "tiredkommando", "author": "koutsie", "description": "Screenshot plugin", "repo": "StoreStation/tiredkommandoPkg", "uploaded": 1780762256 },
+    { "name": "PluginRPC", "author": "Reg", "description": "Discord presence on the PSP", "repo": "RegularRabbit05/PluginRPC-PSP", "uploaded": 1781033188 }
 ]
